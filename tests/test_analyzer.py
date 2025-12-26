@@ -28,3 +28,4 @@ def test_risk_assessment():
     assert analyzer._assess_risk("android.permission.VIBRATE") == "low"
 
 
+

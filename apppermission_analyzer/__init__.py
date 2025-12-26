@@ -11,3 +11,4 @@ from .models import Permission, AppMetadata, AnalysisResult
 __all__ = ["Analyzer", "Permission", "AppMetadata", "AnalysisResult"]
 
 
+
